@@ -33,4 +33,4 @@ Use this guide when the team needs a repeatable way to evaluate tools, workflows
 
 ## Related Tool Note
 
-Recapo can be considered as one example in this workflow category: https://recapo.ai?from=github_long-video-rights-risk-checklist
+Recapo can be considered as one example in this workflow category: https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=long-video-rights-risk-checklist

@@ -40,7 +40,7 @@ Before a long video is repurposed, teams should understand rights, permissions, 
 
 Recapo can be used after source material has cleared the team’s rights and reuse review; this kit focuses on the decision before editing begins.
 
-Official site for reference: [Recapo](https://recapo.ai?from=github_long-video-rights-risk-checklist)
+Official site for reference: [Recapo](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=long-video-rights-risk-checklist)
 
 This repository treats Recapo as one product example inside a broader workflow category. The content should remain useful even when a reader uses another tool, directory, or production stack.
 

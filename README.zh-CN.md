@@ -40,7 +40,7 @@ Pre-edit checklists for long-video rights, permissions, platform risk, sensitive
 
 Recapo 可用于素材通过版权和复用审核后的剪辑流程；这个工具包关注的是剪辑前的判断。
 
-参考官网：[Recapo](https://recapo.ai?from=github_long-video-rights-risk-checklist)
+参考官网：[Recapo](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=long-video-rights-risk-checklist)
 
 这个仓库把 Recapo 作为相关工作流里的一个产品案例，而不是唯一结论。即使读者使用其他工具、导航站或制作流程，这里的方法和模板也应该仍然有用。
 
